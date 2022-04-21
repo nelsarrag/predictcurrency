@@ -1,5 +1,5 @@
 # Forecasting Currency Exchange Values in Path of Exile
-This is older code I wrote in 2021 when I began learning Python.
+This was my first Python project from 2021.
 
 Why is historical data highly predictive of price in this economy?
 * Unlike the real world market, the PoE economy is reset every “league,” or 90 day period, and new in-game content is added.
